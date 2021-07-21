@@ -1,4 +1,4 @@
-# gender_fmri
+# relational_differences_gender_fmri
 Gender differences in brain functional connectivity for relational processing using the HCP dataset.
 
 # Abstract
