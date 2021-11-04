@@ -2,7 +2,7 @@
 Gender differences in brain functional connectivity for relational processing using the HCP dataset.
 
 # Authors 
-Xiaowei Zhang, Sebastian Völk, Shruti-Raj-Vansh-Singh, Didem Katircilar
+Xiaowei Zhang, Sebastian Völkl, Shruti-Raj-Vansh-Singh, Didem Katircilar
 
 
 # Abstract
